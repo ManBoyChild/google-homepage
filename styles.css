@@ -1,0 +1,28 @@
+alignleft {
+    float: left;
+}
+
+alignright {
+    float: right;
+}
+
+body {
+    font-family: arial,sans-serif;
+    font-size: 12px;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    display: inline-block;
+    text-decoration: none;
+    list-style-type: none;
+    margin-right: 15px;
+}
+
+main div {
+    margin: auto;
+}
